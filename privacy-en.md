@@ -4,11 +4,11 @@
 ## What information is stored?
 All messages sent by users are acquired in order to function.
 If the content of these messages is a Kedula command, Kedula will respond with a custom response depending on the command.
-The command used and the avatar of the author of the command will be recorded. Messages that are not a Kedula command starting with your set prefix will not be logged.
+The command used and the username of the author of the command will be recorded. Messages that are not a Kedula command starting with your set prefix will not be logged.
 ## What is considered a Kedula command?
 All commands that are in the Kedula command list and that start with the prefix set on each server. Commonly, the prefix is k!, although it can be anything else set with the setprefix command.
 ## How do we use the information?
-Kedula commands used by users are logged. This information is used to improve Kedula and find bugs. By collecting only the author's avatar, no one can be identified who is not close or known to the creator of Kedula.
+Kedula commands used by users are logged. This information is used to improve Kedula and find bugs. By collecting only the author's username, no one can be identified if you aren't close or known to the creator of Kedula.
 ## Who can see this information?
 Only the creator of Kedula has access to this information (Kedula commands).
 This information will not be shared with anyone, for privacy reasons.

@@ -4,11 +4,11 @@
 ## ¿Qué información se almacena?
 Todos los mensajes enviados por los usuarios son adquiridos para poder funcionar.
 Si el contenido de estos mensajes es un comando de Kedula, este responderá con una respuesta personalizada dependiendo del comando.
-El comando usado y el avatar en miniatura del autor del comando serán registrados. Los mensajes que no sean un comando de Kedula que empiece con su prefijo establecido, no se registrarán.
+El comando usado y el nombre del autor del comando serán registrados. Los mensajes que no sean un comando de Kedula que empiece con su prefijo establecido, no se registrarán.
 ## ¿Que se considera un comando de Kedula?
 Todos los comandos que estén en la lista de comandos de Kedula y que empiecen con el prefijo establecido en cada servidor. Comunmente, el prefijo es k!, aunque puede ser cualquier otro establecido con el comando setprefix.
 ## ¿Cómo usamos la información?
-Los comandos de Kedula usados por los usuarios son registrados. Esta información es usada para mejorar Kedula y encontar sus errores. Al solo recogerse el avatar del autor, no se podrá identificar a nadie que no sea cercano o conocido por el creador de Kedula.
+Los comandos de Kedula usados por los usuarios son registrados. Esta información es usada para mejorar Kedula y encontar sus errores. Al solo recogerse el nombre del autor, no se podrá contactar a nadie que no sea cercano o conocido por el creador de Kedula.
 ## ¿Quien puede ver esta información?
 Solo el creador de Kedula tiene acceso a esta información (comandos de Kedula).
 No se compartirá con nadie esta información, por motivos de privacidad.
